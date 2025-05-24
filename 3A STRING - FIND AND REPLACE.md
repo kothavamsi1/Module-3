@@ -21,7 +21,7 @@ To write a Python program that defines a function to accept a string and join it
 
 **PROGRAM**
 
-**212223060265 - SMRITHI K**
+**212222040081 - Kotha vamsi**
 
 def joinstring(s):
     s1='-'.join(s)
